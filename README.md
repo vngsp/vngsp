@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Olá, meu nome é Vinicius Gabriel, tenho 19 anos e sou natural de Guarulhos. Resido em São Paulo e curso Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera de Guarulhos.<br/> Atualmente estou no 3º semestre e vem sendo uma experiência muito enriquecedora. 
+Olá, meu nome é Vinicius Gabriel, tenho 19 anos e sou natural de Guarulhos. Resido em São Paulo e curso Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera de Guarulhos.<br/> Atualmente estou no 4º semestre e vem sendo uma experiência muito enriquecedora. 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vinicius-gabriel-santos-penha-80a724225/">
